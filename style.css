@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: "Poppins", sans-serif;
+}
+.header
+{
+    height:100vh;
+}
+.navbar-style{
+    background-color: #1976d2;
+    text-transform: uppercase;
+    height:max-content;
+    box-shadow: 0 5px 10px grey
+}
+.logo
+{
+    margin: 0.2rem;
+    height: 48px;
+    padding: 10px 10px;
+}
+.icon-bar
+{
+    background-color: white;
+}
+li a{
+    text-align: center;
+    font-weight:bold;
+    color:white;
+    font-size:large;
+    margin: 0.2rem;
+}
+.model-name{
+    background-color:#1976d2;
+    color: white;
+    width: 100%;
+    font-size:large;
+    font-weight: lighter;
+    text-align: center;
+  }
+
+  
